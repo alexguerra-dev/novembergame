@@ -1,5 +1,7 @@
 # November Game
 
+> Version 0.0.1
+
 ## Getting Started
 
 First, run the development server:
