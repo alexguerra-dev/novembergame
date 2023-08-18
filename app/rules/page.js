@@ -1,3 +1,5 @@
-export default function Documentation() {
-    return <div>index</div>
+import React from 'react'
+
+export default function Rules() {
+    return <div>Rules</div>
 }
